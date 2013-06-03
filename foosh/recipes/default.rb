@@ -6,6 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-template "/tmp/awesome.txt" do
+template "/awesome.txt" do
   source "foosh.erb"
 end
